@@ -43,8 +43,10 @@ android {
         applicationId "com.divingrace.divinehomes"
         minSdkVersion 20
         targetSdkVersion 33
-        versionCode flutterVersionCode.toInteger()
-        versionName flutterVersionName
+//        versionCode flutterVersionCode.toInteger()
+//        versionName flutterVersionName
+        versionCode 2
+        versionName '1.0.1'
         multiDexEnabled true
     }
 
